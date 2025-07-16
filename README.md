@@ -1,6 +1,6 @@
 # Install 
 
-## on MacOS using Homebrew (https://brew.sh/)
+## on MacOS using Homebrew
 ```bash
 brew install ffmpeg
 ```
@@ -20,4 +20,4 @@ whisper ~/Downloads/test.mp3 --language en --model turbo
 https://github.com/openai/whisper?tab=readme-ov-file#available-models-and-languages
 
 # Tips
-Downloaded models are stoked in cache ~/.cache/whisper/ so you don't need to download it again.
+Downloaded models stored in cache ~/.cache/whisper/ so you don't need to download it again.
