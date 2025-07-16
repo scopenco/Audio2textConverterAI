@@ -19,4 +19,5 @@ whisper ~/Downloads/test.mp3 --language en --model turbo
 # Available models by performance
 https://github.com/openai/whisper?tab=readme-ov-file#available-models-and-languages
 
-# Downloaded models are stoked in cache ~/.cache/whisper/ so you don't need to download it again.
+# Tips
+Downloaded models are stoked in cache ~/.cache/whisper/ so you don't need to download it again.
