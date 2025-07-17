@@ -21,3 +21,4 @@ https://github.com/openai/whisper?tab=readme-ov-file#available-models-and-langua
 
 # Tips
 Downloaded models stored in cache ~/.cache/whisper/ so you don't need to download it again.
+Use `convert.py` to get text without timestamps.
